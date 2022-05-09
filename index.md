@@ -1,6 +1,6 @@
-## Welcome To AofanVPN
+### Welcome To AofanVPN
 
-You can use the [kick here](https://www.wolai.com/aofandc/jp67rFVmdeJ2EM33KVkT1D) to maintain and preview the content for your website in Markdown files.
+ [kick here](https://www.wolai.com/aofandc/jp67rFVmdeJ2EM33KVkT1D) 
 
 
 ### Support or Contact
